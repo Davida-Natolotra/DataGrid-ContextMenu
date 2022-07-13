@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@iconify/icons-eva": "1.2.3",
+    "@mui/icons-material": "5.8.4",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "iconify": "1.4.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "name": "contextmenu",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "version": "0.0.0"
+}
